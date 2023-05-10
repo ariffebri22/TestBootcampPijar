@@ -1,6 +1,9 @@
-<img src="">
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<h1>Tampilan Utama</h1>
+<h4>Ini merupakan tampilan utama pada tugas 10</h4>
+<img src="Image/Screensshot (50).png" width="400" align="center" alt="TampilanUtama">
+<p>Sudah terdapat data bernama " DevOps" dan "Fullstack Developer. Data diambil dari database "pijarcamp" dengan tabel "produk" di "localhost/phpmyadmin"</p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework"
+<h1>Tampilan Add</h1>
+<h4>Menambahkan data kedalam tabel produk</h4>
+<img src="Image/Screensshot (51).png" width="400" align="center" alt="TampilanTambah">
+<p>Lalu saya akan menambahkan data produk dengan nama "Frontend Developer" dengan isi "Available", "20000000", "2"</p>
